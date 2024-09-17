@@ -1,5 +1,7 @@
 # AIS Vessel Position Prediction
 TDT4173 - Moderne maskinlæring i praksis
+Markus Sandnes
+André Joseph Virani
 
 ## Overview
 This project is part of the TDT4173 - Modern Machine Learning in Practice course. The main objective is to predict the future positions of vessels based on Automatic Identification System (AIS) data from January 1st, 2024 to May 7th, 2024. The task involves building a machine learning model capable of forecasting vessel positions for five days into the future based on a range of factors such as congestion, port calls, and other relevant events affecting the vessels’ journey.
