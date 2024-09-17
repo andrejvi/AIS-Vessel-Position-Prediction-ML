@@ -1,4 +1,4 @@
-# TDT4173-Gruppe-8
+# AIS Vessel Position Prediction
 TDT4173 - Moderne maskinlæring i praksis
 
 ## Overview
