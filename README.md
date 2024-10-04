@@ -2,7 +2,7 @@
 TDT4173 - Moderne maskinlæring i praksis  
 
 Markus Sandnes  
-André Joseph Virani
+André Joseph Virani 
 Peder Aas Vårheim
 
 ## Overview
